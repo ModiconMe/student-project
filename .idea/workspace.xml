@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5618a4ba-a196-43ba-b67a-f7dd94e8c952" name="Changes" comment="" />
+    <list default="true" id="5618a4ba-a196-43ba-b67a-f7dd94e8c952" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/StudentOrderValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/StudentOrderValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/dao/DictionaryDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/dao/DictionaryDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/dao/DictionaryDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/dao/DictionaryDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/dao/StudentOrderDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/dao/StudentOrderDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/dao/StudentOrderDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/dao/StudentOrderDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/mail/exception/CityRegisterException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/exception/CityRegisterException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/mail/exception/DAOException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/exception/DAOException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/mail/exception/TransportException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/validators/CityRegisterValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/validators/CityRegisterValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/validators/register/CityRegisterChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/validators/register/CityRegisterChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/validators/register/RealCityRegisterChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/student_order/validators/register/RealCityRegisterChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/dao.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/javacourse/student_order/dao/DictionaryDAOImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/javacourse/student_order/dao/DictionaryDAOImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/javacourse/student_order/dao/StudentOrderDAOImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/javacourse/student_order/dao/StudentOrderDAOImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/javacourse/student_order/validator/register/FakeCityRegisterChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/javacourse/student_order/validator/register/FakeCityRegisterChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/log/logging.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/log/logging.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/log4j.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +66,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
-    "last_opened_file_path": "C:/Users/rebee/Desktop/student-project",
+    "last_opened_file_path": "C:/Users/AVTOMATIX/Desktop/student-project",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",

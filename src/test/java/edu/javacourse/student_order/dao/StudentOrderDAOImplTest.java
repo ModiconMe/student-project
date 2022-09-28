@@ -2,7 +2,7 @@ package edu.javacourse.student_order.dao;
 
 import edu.javacourse.student_order.domain.StudentOrder;
 import edu.javacourse.student_order.domain.entities.*;
-import edu.javacourse.student_order.mail.exception.DAOException;
+import edu.javacourse.student_order.exception.DAOException;
 import org.apache.log4j.Logger;
 import org.junit.BeforeClass;
 import org.junit.Test;

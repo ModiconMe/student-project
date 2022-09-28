@@ -1,7 +1,7 @@
 package edu.javacourse.student_order.dao;
 
 import edu.javacourse.student_order.domain.StudentOrder;
-import edu.javacourse.student_order.mail.exception.DAOException;
+import edu.javacourse.student_order.exception.DAOException;
 
 import java.util.List;
 

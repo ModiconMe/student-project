@@ -6,7 +6,7 @@ import edu.javacourse.student_order.domain.children.AnswerChildren;
 import edu.javacourse.student_order.domain.register.AnswerCityRegister;
 import edu.javacourse.student_order.domain.students.AnswerStudents;
 import edu.javacourse.student_order.domain.wedding.AnswerWedding;
-import edu.javacourse.student_order.mail.exception.DAOException;
+import edu.javacourse.student_order.exception.DAOException;
 import edu.javacourse.student_order.mail.MailSender;
 import edu.javacourse.student_order.validators.*;
 

@@ -1,4 +1,4 @@
-package edu.javacourse.student_order.mail.exception;
+package edu.javacourse.student_order.exception;
 
 public class DAOException extends Exception {
     public DAOException() {

@@ -4,7 +4,7 @@ import edu.javacourse.student_order.domain.entities.CountryArea;
 import edu.javacourse.student_order.domain.entities.PassportOffice;
 import edu.javacourse.student_order.domain.entities.RegisterOffice;
 import edu.javacourse.student_order.domain.entities.Street;
-import edu.javacourse.student_order.mail.exception.DAOException;
+import edu.javacourse.student_order.exception.DAOException;
 import org.apache.log4j.Logger;
 
 import java.sql.*;

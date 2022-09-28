@@ -5,8 +5,7 @@ import edu.javacourse.student_order.domain.register.AnswerCityRegister;
 import edu.javacourse.student_order.domain.register.AnswerCityRegisterItem;
 import edu.javacourse.student_order.domain.register.CityRegisterResponse;
 import edu.javacourse.student_order.domain.StudentOrder;
-import edu.javacourse.student_order.mail.exception.CityRegisterException;
-import edu.javacourse.student_order.mail.exception.TransportException;
+import edu.javacourse.student_order.exception.CityRegisterException;
 import edu.javacourse.student_order.validators.register.CityRegisterChecker;
 import edu.javacourse.student_order.validators.register.RealCityRegisterChecker;
 
@@ -38,10 +37,6 @@ public class CityRegisterValidator {
                     AnswerCityRegisterItem.Status.REGISTER :
                     AnswerCityRegisterItem.Status.NOT_REGISTER;
         } catch (CityRegisterException e) {
-            e.printStackTrace(System.out);
-            status = AnswerCityRegisterItem.Status.ERROR;
-            error = new AnswerCityRegisterItem.Error(IN_CODE, e.getMessage());
-        } catch (TransportException e) {
             e.printStackTrace(System.out);
             status = AnswerCityRegisterItem.Status.ERROR;
             error = new AnswerCityRegisterItem.Error(IN_CODE, e.getMessage());
